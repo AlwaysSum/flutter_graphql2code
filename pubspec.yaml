@@ -1,7 +1,7 @@
 name: graphql2code
 description: 一个将graphql文件自动化生成代码的轻量级脚本文件
 version: 0.0.1
-homepage:
+homepage: https://github.com/AlwaysSum/flutter_graphql2code
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
