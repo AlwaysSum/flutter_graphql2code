@@ -1,0 +1,7 @@
+
+<gen>
+const String $name$ = r'''
+$content$
+''';
+</gen>
+

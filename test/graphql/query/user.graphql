@@ -1,0 +1,22 @@
+query QueryUser{
+    queryUser{
+        nickname
+    }
+}
+
+query QueryUser2{
+    queryUser{
+        nickname
+    }
+}
+
+
+query QueryUser3{
+    queryUser{
+        nickname
+    }
+}
+
+mutation Mu{
+    updateUser
+}
